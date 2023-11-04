@@ -1,4 +1,4 @@
-# common-api-benchmarks
+# [common-api-benchmarks](https://github.com/sombriks/common-api-benchmarks)
 
 Benchmark for backend stack comparison.
 Original article: https://www.inovex.de/de/blog/rust-vs-go-vs-c-vs-kotlin/
